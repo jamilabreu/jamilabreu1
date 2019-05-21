@@ -73,7 +73,7 @@ function Home() {
               carries all my stuff
             </li>
             <li>
-              did some stuff with{" "}
+              did some things with{" "}
               <a
                 href="http://www.nytimes.com/2010/05/08/sports/baseball/08drugs.html?_r=0"
                 target="_blank"
