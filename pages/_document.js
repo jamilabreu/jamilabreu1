@@ -14,7 +14,7 @@ class MyDocument extends Document {
             rel="stylesheet"
             href="https://pro.fontawesome.com/releases/v5.8.2/css/all.css"
             integrity="sha384-xVVam1KS4+Qt2OrFa+VdRUoXygyKIuNWUUUBZYv+n27STsJ7oDOHJgfF0bNKLMJF"
-            crossOrigin="anonymous"
+            crossorigin="anonymous"
           />
         </Head>
         <body
