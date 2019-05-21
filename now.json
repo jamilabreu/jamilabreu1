@@ -2,5 +2,5 @@
   "alias": ["jamilabreu.com"],
   "name": "jamilabreu",
   "version": 2,
-  "builds": [{ "src": "package.json", "use": "@now/static-build" }]
+  "builds": [{ "src": "next.config.js", "use": "@now/next" }]
 }
