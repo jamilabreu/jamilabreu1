@@ -108,7 +108,7 @@ function Home() {
       </div>
       <style global jsx>{`
         .social a {
-          color: #ccc;
+          color: #ddd;
         }
         .social a:first-child:hover {
           color: #2ebe60;
