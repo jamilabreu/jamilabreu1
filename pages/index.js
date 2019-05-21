@@ -33,7 +33,13 @@ function Home() {
         >
           <img
             src="/static/images/me.png"
-            style={{ borderRadius: "4px", height: "50px", marginRight: "15px" }}
+            style={{
+              background: "whitesmoke",
+              borderRadius: "4px",
+              height: "50px",
+              marginRight: "15px",
+              width: "50px"
+            }}
           />
           ai! welcome, friend. a few quick facts about me:
         </div>
