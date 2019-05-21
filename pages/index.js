@@ -64,6 +64,15 @@ function Home() {
               </a>
             </li>
             <li>
+              <a
+                href="https://www.peakdesign.com/collections/travel-bags/products/travel-backpack"
+                target="_blank"
+              >
+                one bag
+              </a>{" "}
+              carries all my stuff
+            </li>
+            <li>
               did some stuff with{" "}
               <a
                 href="http://www.nytimes.com/2010/05/08/sports/baseball/08drugs.html?_r=0"
@@ -76,7 +85,6 @@ function Home() {
                 A8C
               </a>
             </li>
-            <li>sometimes i write words + code</li>
           </ul>
         </div>
         <div
