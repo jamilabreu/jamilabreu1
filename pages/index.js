@@ -34,7 +34,7 @@ function Home() {
           <img
             src="/static/images/me.png"
             style={{
-              background: "whitesmoke",
+              background: "#f5f5f5",
               borderRadius: "4px",
               height: "50px",
               marginRight: "15px",
