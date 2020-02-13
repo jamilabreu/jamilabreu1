@@ -36,6 +36,7 @@ function Home() {
             style={{
               background: "#f5f5f5",
               borderRadius: "4px",
+              flex: "0 0 auto",
               height: "50px",
               marginRight: "15px",
               width: "50px"
