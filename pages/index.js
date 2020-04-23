@@ -5,13 +5,13 @@ function Home() {
         alignItems: "center",
         display: "flex",
         height: "100vh",
-        justifyContent: "center"
+        justifyContent: "center",
       }}
     >
       <div
         style={{
           marginBottom: "40px",
-          width: "320px"
+          width: "320px",
         }}
       >
         <div
@@ -19,7 +19,7 @@ function Home() {
             fontSize: "32px",
             fontWeight: "800",
             lineHeight: "35px",
-            marginBottom: "20px"
+            marginBottom: "20px",
           }}
         >
           Jamil Abreu
@@ -28,7 +28,7 @@ function Home() {
           style={{
             display: "flex",
             lineHeight: "19px",
-            marginBottom: "15px"
+            marginBottom: "15px",
           }}
         >
           <img
@@ -39,7 +39,7 @@ function Home() {
               flex: "0 0 auto",
               height: "50px",
               marginRight: "15px",
-              width: "50px"
+              width: "50px",
             }}
           />
           ai! welcome, friend. a few quick facts about me:
@@ -54,7 +54,7 @@ function Home() {
             </li>
             <li>
               <a
-                href="http://gladwell.com/are-you-a-connector/"
+                href="https://www.lifehack.org/articles/communication/know-your-strength-for-more-success-are-you-a-connector-a-maven-or-a-salesman.html"
                 target="_blank"
               >
                 connecting
@@ -101,7 +101,7 @@ function Home() {
             flexFlow: "row nowrap",
             fontSize: "40px",
             justifyContent: "space-between",
-            padding: "0 2px"
+            padding: "0 2px",
           }}
         >
           <a href="mailto:abreu.jamil%40gmail.com?subject=Ai!">
